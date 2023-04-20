@@ -3,5 +3,5 @@ edit_uri: /blob/master/
 nav:
   - Home: index.md
   - Apple:
-    - Grow: grow.md
-    - Care: care.md
+    - Grow: apple/grow.md
+    - Care: apple/care.md
